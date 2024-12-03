@@ -13,10 +13,7 @@ This project is a simple web-based Login and Registration form, developed to dem
 ## Project Screenshots
 
 ### Screenshot 1:
-![Screenshot 1](images/screenshot1.png)
+![Screenshot 1](Login-Registration-Form-main/login/images/Screenshot1.png)
 
 ### Screenshot 2:
-![Screenshot 2](images/screenshot2.png)
-
-### Screenshot 3:
-![Screenshot 3](images/screenshot3.png)
+![Screenshot 2](Login-Registration-Form-main/login/images/Screenshot2.png)
