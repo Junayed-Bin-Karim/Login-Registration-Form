@@ -12,6 +12,6 @@ This project is a simple web-based Login and Registration form, developed to dem
 - **Frontend:** HTML, CSS
 ## Project Screenshots
 
-![Screenshot 1](login/images/Screenshot%201.png)
-![Screenshot 2](login/images/Screenshot%202.png)
+![Screenshot 1](login/images/Screenshot.png)
+![Screenshot 2](login/images/Screenshot.png)
 
